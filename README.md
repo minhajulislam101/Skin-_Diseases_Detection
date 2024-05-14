@@ -1,6 +1,3 @@
-# Skin-_Diseases_Detection
-Skin Diseases and the Importance of Detection Using Machine Learning
-
 # Skin Disease Detection Using Machine Learning
 
 Skin diseases are among the most common health issues globally, affecting millions of people. Early and accurate diagnosis is crucial for effective treatment and management. Traditionally, skin disease diagnosis relies heavily on visual inspection by dermatologists, which can be subjective and limited by the clinician's experience. Machine learning (ML) offers a promising solution by automating the detection process, potentially increasing accuracy and accessibility of diagnostics. This project explores the application of various ML models, including VGG16, ResNet50, MobileNetV2, and InceptionV3, for the detection of skin diseases using dermatological images.
